@@ -1,7 +1,7 @@
 {
  "name": "متتبع التحدي اليومي",
  "short_name": "التحدي",
- "start_url": "./tracker.html",
+ "start_url": "./",
  "scope": "./",
  "display": "standalone",
  "background_color": "#f4f1ea",
